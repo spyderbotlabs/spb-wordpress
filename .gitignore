@@ -1,0 +1,10 @@
+assets/js/*.map
+.DS_Store
+/vendor/
+.phpunit.result.cache
+.phpunit.cache/
+/node_modules/
+.env
+.env.*
+!.env.example
+/dist/
