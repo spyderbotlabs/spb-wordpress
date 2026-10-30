@@ -4,7 +4,7 @@ Tags: analytics, llm, tracking, geo, spyderbot, ai-traffic
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.3.0
+Stable tag: 0.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ This plugin may send the following to SpyderBot ingest endpoints:
 Data is processed according to the [SpyderBot Privacy Policy](https://spyderbot.net/privacy).
 
 == Changelog ==
+
+= 0.3.1 =
+* Public release packaging / CI metadata refresh
 
 = 0.3.0 =
 * Production environment preset (api.spyderbot.net)

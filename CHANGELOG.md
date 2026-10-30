@@ -2,6 +2,12 @@
 
 All notable changes to the SpyderBot Tracking WordPress plugin are documented here.
 
+## [0.3.1] — 2026-10-30
+
+### Changed
+- Public package metadata / Composer lock refresh for GitHub Actions CI.
+- Documentation cleanup for the public GitHub release.
+
 ## [0.3.0] — 2026-10-30
 
 ### Added
