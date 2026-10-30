@@ -2,7 +2,7 @@
 
 WordPress plugin for [SpyderBot](https://spyderbot.net) AI Traffic: browser script (`wfm.js`) plus server-side bot capture. License: [GPL-2.0-or-later](LICENSE).
 
-**v0.3.1** — [GitHub releases](https://github.com/spyderbotlabs/spb-wordpress/releases).
+**v0.3.2** — [GitHub releases](https://github.com/spyderbotlabs/spb-wordpress/releases).
 
 ## Features
 
@@ -19,7 +19,7 @@ WordPress plugin for [SpyderBot](https://spyderbot.net) AI Traffic: browser scri
 
 ## Install
 
-1. Download `spyderbot-tracking-0.3.1.zip` from [Releases](https://github.com/spyderbotlabs/spb-wordpress/releases), or clone this repo and run `composer build-zip`.
+1. Download `spyderbot-tracking-0.3.2.zip` from [Releases](https://github.com/spyderbotlabs/spb-wordpress/releases), or clone this repo and run `composer build-zip`.
 2. Upload via Plugins → Add New → Upload Plugin (or unpack into `wp-content/plugins/spyderbot-tracking`).
 3. Activate, then open Settings → SpyderBot Tracking.
 4. Paste your AI Traffic **project tracking key**, save, and click **Test connection**.

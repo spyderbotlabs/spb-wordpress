@@ -2,6 +2,11 @@
 
 All notable changes to the SpyderBot Tracking WordPress plugin are documented here.
 
+## [0.3.2] — 2026-10-30
+
+### Fixed
+- Composer lock regenerated for PHP 7.4+ so GitHub Actions matrix installs cleanly.
+
 ## [0.3.1] — 2026-10-30
 
 ### Changed

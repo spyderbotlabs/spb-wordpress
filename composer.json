@@ -29,6 +29,9 @@
         "sort-packages": true,
         "allow-plugins": {
             "php-http/discovery": false
+        },
+        "platform": {
+            "php": "7.4.33"
         }
     },
     "homepage": "https://github.com/spyderbotlabs/spb-wordpress",
